@@ -1,8 +1,0 @@
-git add <> - adds changes in working directory
-git status - shows the status
-git commit -m "..." - commits changes to local repo
-git push - pushing code to host.(eg: origin master, heroku master)
- 
-git checkout - to view active branches
-git checkout <branchname> to switch between branches
-
