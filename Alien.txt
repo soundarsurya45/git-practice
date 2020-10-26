@@ -1,4 +1,4 @@
 name: pomsky
 from: mars
 age: 20
-hobby: killing
+hobby: killing!!
