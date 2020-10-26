@@ -1,0 +1,13 @@
+git add <> - adds changes in working directory
+git status - shows the status
+git log - shows recent commits
+git commit -m "..." - commits changes to local repo
+git push - pushing code to host.(eg: origin master, heroku master)
+git remote rm <> - removes remote(eg: heroku, origin)
+git remote add <> - Adds remote(eg: origin, heroku)
+git checkout  . -  undo 
+
+git - to view active branches
+git checkout <branchname> to switch between branches
+
+//Made some changes
