@@ -1,5 +1,7 @@
 - Made some changes
 - Hello from alien-plot branch
+- Tested Merging & branching
+- Tested pull requests
 
 //ref:
 https://learngitbranching.js.org/
